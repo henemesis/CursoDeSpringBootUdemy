@@ -1,0 +1,35 @@
+# .gitignore 
+
+# Eclipse folders and configurations
+.metadata/
+.settings/
+bin/
+tmp/
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+# Compliled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+## Visual Studio Code
+.vscode/
+
+
