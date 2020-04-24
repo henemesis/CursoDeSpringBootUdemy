@@ -78,11 +78,12 @@ Lembrar de configurar o H2:
 Para criar o banco devemos copiar as configurações do site: https://spring.io/guides/gs/accessing-data-mysql/ e logo em seguida inserir em  aplication.properties inserir as configurações do Mysql:
   
 1. Site:  
-**Inserir Imagem**  
+**Exemplo:**  
+![config](/../master/imagensGit/imagem5.png?raw=true)
   
 2. application.properties:  
-**Inserir Imagem**  
-****  
+**Exemplo:**  
+![config](/../master/imagensGit/imagem6.png?raw=true)
 
 ## Seção 3. Aula 18  
 
