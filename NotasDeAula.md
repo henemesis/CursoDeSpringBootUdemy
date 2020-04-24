@@ -6,7 +6,7 @@
 2. Criar o projeto com new → Spring Starter Project;  
   
 **Inserir imagem..**  
-![Config](/home/thiagordem/Imagens/imagensGit/imagem1.png?)
+![config](/../master/imagensGit/imagem1.png?raw=true)
   
 3. Em New Spring Starter Project Dependencies, escolher os requisitos de dependências necessários ao projeto:  
   
