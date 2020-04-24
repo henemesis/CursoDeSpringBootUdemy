@@ -1,8 +1,6 @@
-# 1ª Parte  
-  
-## Configurações e Ferramentas  
+# Configurações e Ferramentas  
 
-### Spring Tools Suite  
+## Spring Tools Suite  
   
 1. Baixar o STS (Spring Tools Suite);  
 2. Criar o projeto com new → Spring Starter Project;  
