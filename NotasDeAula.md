@@ -231,6 +231,6 @@ Lembrar de inserir:
 	<artifactId>spring-boot-starter-undertow</artifactId>
 	<scope>provided</scope>
 	<version>2.2.6.RELEASE</version>
-dependency>
+<dependency>
 ```  
 Não esquecer o <scope> ou a aplicação não subirá!
