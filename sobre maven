@@ -1,0 +1,7 @@
+Dependency scope = gerar --> compilar.
+
+EAR == Junta war e jar..
+.m2 --> "Instala" dentro da máquina. Pasta local de usuário onde fica as depências
+ do maven.
+
+deploy --> Joga pro nexus -->
