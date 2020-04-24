@@ -5,14 +5,17 @@
 1. Baixar o STS (Spring Tools Suite);  
 2. Criar o projeto com new → Spring Starter Project;  
   
-**Inserir imagem..**  
+**Exemplo:**  
 ![config](/../master/imagensGit/imagem1.png?raw=true)
   
 3. Em New Spring Starter Project Dependencies, escolher os requisitos de dependências necessários ao projeto:  
   
-**Inserir imagem..**  
+**Exemplo:**  
+![config](/../master/imagensGit/imagem2.png?raw=true)
   
 4. Criar o pacote Entity separado para a melhor organização do projeto:  
+**Exemplo:**  
+![config](/../master/imagensGit/imagem3.png?raw=true)
   
 ### INSTALAÇÃO E CONFIGURAÇÃO DO MYSQL NO LINUX → LINKS NECESSÁRIOS  
   
@@ -56,7 +59,8 @@ spring.jpa.properties.hibernate.enable_lazy_load_no_trans=true
 API do java para trabalhar com dados.  
   
 Lembrar de configurar o H2:  
-**Colar Imagem..**  
+**Exemplo:**  
+![config](/../master/imagensGit/imagem4.png?raw=true) 
 ****  
   
 # GIT NOTAS DE AULA  
