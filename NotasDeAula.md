@@ -221,3 +221,16 @@ Package de aula = aulas5-2
 ## Seção 8. Aula . 54→ Criando o nosso primeiro endpoint Rest  
 
 Package de aula = projeto (Intellij project), findAll() → Biblioteca da Controller responsável pela serialização da entidade User para a utilização dos dados no formato JSON  
+****  
+## OBS:
+### Subindo a aplicação para o DataSource com WildFly (Config. do pom.xml)
+Lembrar de inserir: 
+```xml  
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-undertow</artifactId>
+	<scope>provided</scope>
+	<version>2.2.6.RELEASE</version>
+dependency>
+```  
+Não esquecer o <scope> ou a aplicação não subirá!
